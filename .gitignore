@@ -1,0 +1,31 @@
+# Компилированные файлы Java
+*.class
+
+# Логи
+*.log
+
+# Каталоги сборки Maven/Gradle
+target/
+build/
+
+# JAR, WAR, EAR-файлы
+*.jar
+*.war
+*.ear
+
+# Файлы IDE IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# Файлы Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Файлы NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
